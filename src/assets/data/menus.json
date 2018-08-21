@@ -1,0 +1,201 @@
+[
+    {
+        "icon": "view_column",
+        "name": "dashboard",
+        "state": "dashboard",
+        "children": [
+            {
+                "name": "dashboard1",
+                "state": "dashboard1",
+                "url": "/dashboard/dashboard1"
+            },
+            {
+                "name": "dashboard2",
+                "state": "dashboard2",
+                "url": "/dashboard/dashboard2"
+            }
+        ]
+    },
+    {
+        "icon": "view_column",
+        "name": "charts",
+        "state": "charts",
+        "children": [
+            {
+                "name": "chartjs",
+                "state": "chartjs",
+                "url": "/charts/chartjs"
+            },
+            {
+                "name": "flot",
+                "state": "flot",
+                "url": "/charts/flot"
+            },
+            {
+                "name": "inline",
+                "state": "inline",
+                "url": "/charts/inline"
+            },
+            {
+                "name": "morris",
+                "state": "morris",
+                "url": "/charts/morris"
+            }
+        ]
+    },
+    {
+        "icon": "view_column",
+        "name": "examples",
+        "state": "examples",
+        "children": [
+            {
+                "name": "blank",
+                "state": "blank",
+                "url": "/examples/blank"
+            },
+            {
+                "name": "500",
+                "state": "error",
+                "url": "/examples/error"
+            },
+            {
+                "name": "invoice",
+                "state": "invoice",
+                "url": "/examples/invoice"
+            },
+            {
+                "name": "invoice-print",
+                "state": "invoice-print",
+                "url": "/examples/invoice-print"
+            },
+            {
+                "name": "lockscreen",
+                "state": "lockscreen",
+                "url": "/examples/lockscreen"
+            },
+            {
+                "name": "login",
+                "state": "login",
+                "url": "/examples/login"
+            },
+            {
+                "name": "404",
+                "state": "not-found",
+                "url": "/examples/not-found"
+            },
+            {
+                "name": "pace",
+                "state": "pace",
+                "url": "/examples/pace"
+            },
+            {
+                "name": "profile",
+                "state": "profile",
+                "url": "/examples/profile"
+            },
+            {
+                "name": "blank",
+                "state": "blank",
+                "url": "/examples/blank"
+            },
+            {
+                "name": "register",
+                "state": "register",
+                "url": "/examples/register"
+            }
+        ]
+    },
+    {
+        "icon": "view_column",
+        "name": "forms",
+        "state": "forms",
+        "children": [
+            {
+                "name": "advanced",
+                "state": "advanced",
+                "url": "/forms/advanced"
+            },
+            {
+                "name": "editors",
+                "state": "editors",
+                "url": "/forms/editors"
+            },
+            {
+                "name": "general",
+                "state": "general",
+                "url": "/forms/general"
+            }
+        ]
+    },
+    {
+        "icon": "view_column",
+        "name": "mailbox",
+        "state": "mailbox",
+        "children": [
+            {
+                "name": "compose",
+                "state": "compose",
+                "url": "/mailbox/compose"
+            },
+            {
+                "name": "read-mail",
+                "state": "read-mail",
+                "url": "/mailbox/read-mail"
+            }
+        ]
+    },
+    {
+        "icon": "view_column",
+        "name": "tables",
+        "state": "tables",
+        "children": [
+            {
+                "name": "data",
+                "state": "data",
+                "url": "/tables/data"
+            },
+            {
+                "name": "simple",
+                "state": "simple",
+                "url": "/tables/simple"
+            }
+        ]
+    },
+    {
+        "icon": "view_column",
+        "name": "UI",
+        "state": "UI",
+        "children": [
+            {
+                "name": "buttons",
+                "state": "buttons",
+                "url": "/ui/buttons"
+            },
+            {
+                "name": "general",
+                "state": "general",
+                "url": "/ui/general"
+            },
+            {
+                "name": "icons",
+                "state": "icons",
+                "url": "/ui/icons"
+            },
+            {
+                "name": "modals",
+                "state": "modals",
+                "url": "/ui/modals"
+            },
+            {
+                "name": "sliders",
+                "state": "sliders",
+                "url": "/ui/sliders"
+            },
+            {
+                "name": "timeline",
+                "state": "timeline",
+                "url": "/ui/timeline"
+            }
+        ]
+    }
+]
